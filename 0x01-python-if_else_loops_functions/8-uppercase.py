@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'#created by bright. '
+# created by bright.
 
 def uppercase(str):
     """Print a string in uppercase."""
