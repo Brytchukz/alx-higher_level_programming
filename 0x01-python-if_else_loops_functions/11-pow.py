@@ -3,5 +3,5 @@
 # created by bright.
 
 def pow(a, b):
-  """Returns the value of a ^ b"""
-  return(a ** b)
+    """Returns the value of a ^ b"""
+    return(a ** b)
