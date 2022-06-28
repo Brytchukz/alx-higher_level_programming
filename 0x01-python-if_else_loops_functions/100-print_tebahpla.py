@@ -3,7 +3,7 @@
 # alternating lowercase and uppercase
 # created by bright
 
-    """"Print the alphabet in reverse order."""
+    """Print the alphabet in reverse order."""
 i = 0
 for c in range(ord('z'), ord('a') - 1, -1):
     print("{}".format(chr(c - i)), end="")
