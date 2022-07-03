@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# function that replaces an element of a list at a specific position (like in C)
+# function that replaces an element of a list
+# at a specific position (like in C)
 # created by bright
 
 
