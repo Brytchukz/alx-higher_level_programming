@@ -1,4 +1,4 @@
-#!/usr/bin/ptyhon3
+#!/usr/bin/python3
 # function that retrieves an element from a list like in c
 # created by bright
 
