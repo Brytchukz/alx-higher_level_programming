@@ -2,6 +2,7 @@
 # function that executes a function safely.
 # created by bright
 
+from __future__ import print_function
 import sys
 
 
