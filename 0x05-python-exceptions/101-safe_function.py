@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-# 101-safe_function.py
-
+from __future__ import print_function
 import sys
 
 
