@@ -5,7 +5,6 @@
 from __future__ import print_function
 import sys
 
-
 def safe_function(fct, *args):
     """Executes a function safely.
     Args:
